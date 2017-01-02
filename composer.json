@@ -1,0 +1,19 @@
+{
+  "name": "gtuk/geo-ip-bundle",
+  "description": "Bundle integrating MaxMind GeoIP database and web api into symfony",
+  "keywords": ["symfony", "geoip", "maxmind"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Florian Lambart",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "Gtuk\\GeoIpBundle\\": "" }
+  },
+  "require": {
+    "symfony/framework-bundle": "^2.3|^3.0",
+    "geoip2/geoip2": "~2.0"
+  }
+}
