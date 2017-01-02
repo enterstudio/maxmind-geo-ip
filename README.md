@@ -1,6 +1,6 @@
 maxmind-geo-ip-bundle
 =====================
-A symfony bundle for geo location with the maxmind geo database.
+A symfony bundle for geo localization with the maxmind geo database.
 
 Installation
 ----------- 
